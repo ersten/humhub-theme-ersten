@@ -1,1 +1,1 @@
-Me theme for HumHub.
+My theme for HumHub.
